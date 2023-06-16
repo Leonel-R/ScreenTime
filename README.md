@@ -1,2 +1,2 @@
 # Screen Time Logger 
--will uodate
+-will update
